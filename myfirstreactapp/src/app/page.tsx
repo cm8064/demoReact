@@ -24,7 +24,7 @@ export default function Home() {
             Save and see your changes instantly.
           </li>
           <li className="tracking-[-.01em]">
-            Hola a todos
+            Hola a todos, bienvenidos a la clase
           </li>
           <li className="tracking-[-.01em]">
            U Catolica 2025
