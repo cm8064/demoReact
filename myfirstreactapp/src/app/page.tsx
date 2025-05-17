@@ -27,7 +27,7 @@ export default function Home() {
             Hola a todos
           </li>
           <li className="tracking-[-.01em]">
-           U Catolica
+           U Catolica 2025
           </li>
         </ol>
 
