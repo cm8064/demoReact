@@ -15,9 +15,8 @@ nodejs 'Node_24'
         stage('Build') {
             steps {
                 echo 'Step 2 - Compilación'
-                sh 'npm install'
-                sh 'npm update'
                 sh 'cd react2/ucp-app'
+                sh 'npm install'
                 sh 'npm run build'
             }
         }
