@@ -25,7 +25,7 @@ nodejs 'Node_24'
             }
             post{
                 always{
-                    archiveArtifacts artifacts: 'test-outputs.txt'
+                    archiveArtifacts artifacts: 'test-outputs.txt',
                     allowEmptyArchive: true
                 }
             }
